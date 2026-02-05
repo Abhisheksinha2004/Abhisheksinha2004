@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Engineering+Student;Machine+Learning+Enthusiast;Learning+Data+Science+%26+AI;Python+%7C+Scikit-Learn+%7C+Jupyter" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -13,11 +17,23 @@
 ---
 
 ## 🧑‍💻 About Me
+
 - 🔍 Learning Machine Learning with hands-on projects
 - 🧠 Strong in Regression, Preprocessing, Feature Engineering
 - 📊 Working with Python, NumPy, Pandas, scikit-learn
 - 🌱 Currently improving model deployment skills
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhisheksinha2004&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhisheksinha2004&theme=tokyonight" />
+</p>
 ---
 
 ## 📚 Machine Learning Topics
