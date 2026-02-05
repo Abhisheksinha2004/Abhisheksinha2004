@@ -23,19 +23,7 @@
 - 📊 Working with Python, NumPy, Pandas, scikit-learn
 - 🌱 Currently improving model deployment skills
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhisheksinha2004&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abhisheksinha2004&theme=tokyonight" />
-</p>
-
----
 
 ## 📚 Machine Learning Topics
 - Linear Regression
