@@ -1,16 +1,56 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+## Hi 👋 I'm Abhishek Sinha
 
-<!--
-**Abhisheksinha2004/Abhisheksinha2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | 💻 Machine Learning Enthusiast  
+🚀 Exploring ML, Data Science & Python  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🔍 Learning Machine Learning with hands-on projects
+- 🧠 Strong in Regression, Preprocessing, Feature Engineering
+- 📊 Working with Python, NumPy, Pandas, scikit-learn
+- 🌱 Currently improving model deployment skills
+
+---
+
+## 📚 Machine Learning Topics
+- Linear Regression
+- Multiple Linear Regression
+- Polynomial Regression
+- Feature Scaling
+- Feature Selection (Forward & Backward Elimination)
+- Train-Test Split
+- Data Preprocessing
+
+---
+
+## 🛠️ Tech Stack
+**Languages & Tools**
+- Python 🐍
+- NumPy
+- Pandas
+- Matplotlib
+- scikit-learn
+- Jupyter Notebook
+
+---
+
+## 📂 Featured Project
+🔗 **Machine Learning Jupyter Notebooks**  
+👉 https://github.com/Abhisheksinha2004/Machine-Learning-Jupyter-Notebook
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Sinha-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishek-sinha-1b0371329/)
+
+- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-sinha-1b0371329/
+- 🧑‍💻 GitHub: https://github.com/Abhisheksinha2004
+
