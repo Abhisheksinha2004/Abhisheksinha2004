@@ -26,7 +26,7 @@ abhishek = {
     "name"        : "Abhishek Sinha",
     "role"        : "Engineering Student 🎓 | AI & ML Enthusiast",
     "college"     : "B.Tech (2024 → 2028)",
-    "location"    : "Patna, Bihar, India 🇮🇳",
+    "location"    : "Ranchi, Jharkhand, India 🇮🇳",
 
     "skills"      : ["Machine Learning", "Data Science", "Python", "DSA"],
     "building"    : "ML algorithm portfolio on GitHub 🚀",
