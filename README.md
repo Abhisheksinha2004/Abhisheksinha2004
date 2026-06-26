@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=Abhisheksinha2004&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/Abhisheksinha2004?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Open%20To-Internships-22C55E?style=for-the-badge&logo=circle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Patna%2C%20India-F59E0B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Ranchi%2C%20India-F59E0B?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
