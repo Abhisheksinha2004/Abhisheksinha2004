@@ -172,6 +172,26 @@ abhishek = {
 
 ---
 
+## 🎯 Current Focus
+
+<div align="center">
+
+| Area | Progress |
+| :--- | :--- |
+| 🧠 **DSA — Striver A2Z Sheet (C++ & Python)** | `████████░░` Advancing |
+| 🤖 **Machine Learning & Model Pipelines (Scikit-Learn)** | `████████░░` Advancing |
+| 🌐 **Interactive ML Web Apps (Streamlit Cloud)** | `███████░░░` Building |
+| 💻 **Frontend Web Development (HTML5, CSS3, JavaScript)** | `██████░░░░` Building |
+| ⚡ **Deep Learning & Neural Network Foundations** | `████░░░░░░` Learning |
+
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+---
+
 ## 📊 Live GitHub & LeetCode Analytics
 
 <!-- LEETCODE LIVE STATS CARD -->
@@ -198,6 +218,60 @@ abhishek = {
     <img src="https://github-profile-trophy.vercel.app/?username=Abhisheksinha2004&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
   </p>
 </details>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Abhisheksinha2004/Abhisheksinha2004/output/github-snake.svg" alt="Abhishek's Contribution Snake" />
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+---
+
+## 📋 Profile Summary Cards
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhisheksinha2004&theme=tokyonight" width="100%" alt="Profile Details" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhisheksinha2004&theme=tokyonight" alt="Top Languages by Repo" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhisheksinha2004&theme=tokyonight" alt="Top Languages by Commit" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhisheksinha2004&theme=tokyonight" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhisheksinha2004&theme=tokyonight&utcOffset=5.5" alt="Commits Time (UTC +5.50)" />
+
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote of the Day" />
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ---
 
