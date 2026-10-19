@@ -19,6 +19,10 @@
 
 <!-- SOCIAL & PLATFORM CONNECT BADGES -->
 <p align="center">
+  <a href="https://portfolio-ten-delta-3tdtsf400w.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/abhishek-sinha-1b0371329" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -77,6 +81,7 @@ abhishek = {
     "currently"   : "Building End-to-End ML Web Systems & Advancing in DSA 🚀",
     "open_to"     : ["Internships", "Open Source Collaborations", "Tech Discussions"],
     "connect"     : {
+        "portfolio": "https://portfolio-ten-delta-3tdtsf400w.vercel.app",
         "email"    : "abhisheksinha27112004@gmail.com",
         "linkedin" : "linkedin.com/in/abhishek-sinha-1b0371329",
         "leetcode" : "leetcode.com/u/abhishekSinha2004"
@@ -158,6 +163,7 @@ abhishek = {
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| [**🌌 Interactive 3D Developer Portfolio**](https://portfolio-ten-delta-3tdtsf400w.vercel.app/) | State-of-the-art 3D portfolio featuring Three.js cybernetic globe, particle constellation, real-time project search, and live analytics. | `React` `Three.js` `Vite` `CSS3` |
 | [**🩺 Heart Disease Prediction Web App**](https://github.com/Abhisheksinha2004/heart-disease-prediction-streamlit) | End-to-end interactive Machine Learning web application deployed with Streamlit to predict cardiovascular risk from patient health metrics. | `Python` `Streamlit` `Scikit-Learn` |
 | [**🧠 Machine Learning Jupyter Notebooks**](https://github.com/Abhisheksinha2004/Machine-Learning-Jupyter-Notebook) | Comprehensive repository covering supervised learning algorithms, preprocessing pipelines, and performance evaluation. | `Python` `NumPy` `Pandas` `Scikit-Learn` |
 | [**⚡ Problemsolving-DSA Hub**](https://github.com/Abhisheksinha2004/Problemsolving-DSA) | Collection of data structure implementations and algorithmic solutions in C, C++, and Python focusing on optimization. | `C` `C++` `DSA` `Algorithms` |
@@ -228,7 +234,11 @@ abhishek = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Abhisheksinha2004/Abhisheksinha2004/output/github-snake.svg" alt="Abhishek's Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhisheksinha2004/Abhisheksinha2004/output/github-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhisheksinha2004/Abhisheksinha2004/output/github-snake-light.svg">
+    <img src="https://raw.githubusercontent.com/Abhisheksinha2004/Abhisheksinha2004/output/github-snake.svg" alt="Abhishek's Contribution Snake" />
+  </picture>
 </div>
 
 <p align="center">
@@ -282,6 +292,10 @@ abhishek = {
 </p>
 
 <p align="center">
+  <a href="https://portfolio-ten-delta-3tdtsf400w.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/abhishek-sinha-1b0371329" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
